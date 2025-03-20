@@ -1,0 +1,5 @@
+npcs = []  # Lista de NPCs
+
+
+
+
